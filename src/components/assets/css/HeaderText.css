@@ -1,0 +1,32 @@
+.header-text{
+    height: 45vh;
+    margin-top: 10rem;
+    color: white;
+}
+.text1{
+    margin: 0 auto;
+    width: 48vw;
+    font-size: 3.125rem;
+    line-height: 3rem;
+    text-align: center;
+    text-align-last: center;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+.text2{
+    margin: 0 auto;
+    width: 48vw;
+    font-size: 1.7rem;
+    line-height: 3rem;
+    text-align: center;
+    font-weight: 600;
+}
+.text3{
+    margin: 0 auto;
+    width: 55vw;
+    font-size: 1.3rem;
+    line-height: 3rem;
+    text-align: center;
+    font-weight: 400;
+
+}
